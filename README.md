@@ -37,21 +37,21 @@ Para ejecutar el proyecto, se necesita un navegador web moderno que soporte HTML
    - Añade JavaScript: Si tu proyecto lo requiere, puedes agregar archivos JavaScript para implementar funcionalidades interactivas.
 3. Implementar cambios:
    - Subir cambios a GitHub: Una vez que hayas realizado las personalizaciones, sube los cambios a tu repositorio de GitHub.
-   - Implementar en un servidor web: Para que tu sitio web esté visible en Internet, debes implementarlo en un servidor web. Puedes usar un servicio de alojamiento web o configurar tu propio     servidor.
-   
+   - Implementar en un servidor web: Para que tu sitio web esté visible en Internet, debes implementarlo en un servidor web. Puedes usar un servicio de alojamiento web o configurar tu propio servidor.
+
 **Ejemplos de uso**
 
 Esta plantilla HTML básica se puede utilizar para una amplia variedad de proyectos web, incluyendo:
 
-  - Sitios web personales: Crea un sitio web para mostrar tu portafolio, blog o curriculum vitae.
+- Sitios web personales: Crea un sitio web para mostrar tu portafolio, blog o curriculum vitae.
 
-  - Sitios web comerciales: Desarrolla un sitio web para tu negocio o empresa, incluyendo información sobre productos, servicios y contacto.
+- Sitios web comerciales: Desarrolla un sitio web para tu negocio o empresa, incluyendo información sobre productos, servicios y contacto.
 
-  - Sitios web informativos: Crea un sitio web para compartir información sobre un tema en particular, como noticias, educación o tutoriales.
+- Sitios web informativos: Crea un sitio web para compartir información sobre un tema en particular, como noticias, educación o tutoriales.
 
-  - Sitios web de una sola página: Diseña una página web única para presentar un producto, evento o idea de manera atractiva.
+- Sitios web de una sola página: Diseña una página web única para presentar un producto, evento o idea de manera atractiva.
 
-  - Páginas de aterrizaje: Crea una página web específica para capturar leads o promocionar una oferta especial.
+- Páginas de aterrizaje: Crea una página web específica para capturar leads o promocionar una oferta especial.
 
 **Contribuciones**
 
